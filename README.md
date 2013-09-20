@@ -19,12 +19,16 @@ This application was originally created by Enigmarelle Development, but since it
 
 ## Special Thanks
 
-<a href="http://www.jwz.org/dadadodo">Jamie Zawinski
-</a><a href="http://www.macupdate.com/developers/profile/938">Enigmarelle Development
-</a><a href="https://twitter.com/bymerej">@bymerej</a>
+- <a href="http://www.jwz.org/dadadodo">Jamie Zawinski
+</a>
+- <a href="http://www.macupdate.com/developers/profile/938">Enigmarelle Development
+</a>
+- <a href="https://twitter.com/bymerej">@bymerej</a>
 
 ## See Also
 
 <a href="http://infinityskitchen.com/links/">Other links and sources about experimental literary methods</a>
 
 <a href="http://www.lazaruscorporation.co.uk/cutup/links">Other software for text manipulation &amp; cut-up technique</a>
+
+[Discussion of a Windows version](http://ubuntuforums.org/showthread.php?p=6825246)
