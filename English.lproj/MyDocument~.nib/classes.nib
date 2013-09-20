@@ -1,0 +1,24 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {chooseFiles = id; generate = id; saveIndex = id; setHTML = id; }; 
+            CLASS = MyDocument; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                chooseFilesButton = NSButton; 
+                docWindow = NSWindow; 
+                generateButton = NSButton; 
+                htmlSwitch = NSButton; 
+                outputTextView = NSTextView; 
+                progressIndicator = NSProgressIndicator; 
+                saveIndexButton = NSButton; 
+                sentenceCountField = NSTextField; 
+                tabView = NSTabView; 
+                tableView = NSTableView; 
+            }; 
+            SUPERCLASS = NSDocument; 
+        }
+    ); 
+    IBVersion = 1; 
+}

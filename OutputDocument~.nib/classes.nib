@@ -1,0 +1,25 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = OutputController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {outputView = id; }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {
+            CLASS = OutputDocument; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                htmlView = WebView; 
+                htmlWindow = NSWindow; 
+                outputView = id; 
+                textView = NSTextView; 
+                textWindow = NSWindow; 
+                windowController = OutputController; 
+            }; 
+            SUPERCLASS = NSDocument; 
+        }
+    ); 
+    IBVersion = 1; 
+}

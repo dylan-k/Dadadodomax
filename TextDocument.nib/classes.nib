@@ -1,0 +1,18 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = OutputController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {outputView = id; }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {
+            CLASS = TextDocument; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {textView = NSTextView; }; 
+            SUPERCLASS = NSDocument; 
+        }
+    ); 
+    IBVersion = 1; 
+}

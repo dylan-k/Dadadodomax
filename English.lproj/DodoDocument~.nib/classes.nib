@@ -1,0 +1,39 @@
+{
+    IBClasses = (
+        {CLASS = DDTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }, 
+        {
+            ACTIONS = {
+                addURL = id; 
+                cancelAddURLSheet = id; 
+                chooseFiles = id; 
+                endAddURLSheet = id; 
+                generate = id; 
+                saveIndex = id; 
+                setHTML = id; 
+                toggleConsoleDrawer = id; 
+            }; 
+            CLASS = DodoDocument; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                chooseFilesButton = NSButton; 
+                consoleDrawer = NSDrawer; 
+                consoleView = NSTextView; 
+                docWindow = NSWindow; 
+                generateButton = NSButton; 
+                htmlSwitch = NSButton; 
+                pathField = NSTextField; 
+                progressIndicator = NSProgressIndicator; 
+                sentenceCountField = NSTextField; 
+                tableView = NSTableView; 
+            }; 
+            SUPERCLASS = NSDocument; 
+        }, 
+        {
+            ACTIONS = {replaceFile = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

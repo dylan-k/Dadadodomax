@@ -1,0 +1,6 @@
+generate & save index data, check for index on generate and use if available.
+
+do dadadodo task in thread
+
+reference files by aliases rather than paths
+

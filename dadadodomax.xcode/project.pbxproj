@@ -1,0 +1,958 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 39;
+	objects = {
+		089C165FFE840EACC02AAC07 = {
+			children = (
+				089C1660FE840EACC02AAC07,
+			);
+			isa = PBXVariantGroup;
+			name = InfoPlist.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		089C1660FE840EACC02AAC07 = {
+			fileEncoding = 10;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.strings;
+			name = English;
+			path = English.lproj/InfoPlist.strings;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//080
+//081
+//082
+//083
+//084
+//100
+//101
+//102
+//103
+//104
+		1058C7A6FEA54F5311CA2CBB = {
+			children = (
+				1058C7A7FEA54F5311CA2CBB,
+			);
+			isa = PBXGroup;
+			name = "Linked Frameworks";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		1058C7A7FEA54F5311CA2CBB = {
+			fallbackIsa = PBXFileReference;
+			isa = PBXFrameworkReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = /System/Library/Frameworks/Cocoa.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		1058C7A8FEA54F5311CA2CBB = {
+			children = (
+				2A37F4C5FDCFA73011CA2CEA,
+				2A37F4C4FDCFA73011CA2CEA,
+			);
+			isa = PBXGroup;
+			name = "Other Frameworks";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//100
+//101
+//102
+//103
+//104
+//190
+//191
+//192
+//193
+//194
+		19C28FB0FE9D524F11CA2CBB = {
+			children = (
+				8D15AC370486D014006FF6A4,
+			);
+			isa = PBXGroup;
+			name = Products;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//190
+//191
+//192
+//193
+//194
+//2A0
+//2A1
+//2A2
+//2A3
+//2A4
+		2A37F4A9FDCFA73011CA2CEA = {
+			buildSettings = {
+			};
+			buildStyles = (
+				4A9504D0FFE6A4CB11CA0CBA,
+				4A9504D1FFE6A4CB11CA0CBA,
+			);
+			hasScannedForEncodings = 1;
+			isa = PBXProject;
+			mainGroup = 2A37F4AAFDCFA73011CA2CEA;
+			projectDirPath = "";
+			targets = (
+				8D15AC270486D014006FF6A4,
+				B78FB9950585484900380955,
+			);
+		};
+		2A37F4AAFDCFA73011CA2CEA = {
+			children = (
+				B78FB98F058547A200380955,
+				2A37F4ABFDCFA73011CA2CEA,
+				2A37F4AFFDCFA73011CA2CEA,
+				2A37F4B8FDCFA73011CA2CEA,
+				2A37F4C3FDCFA73011CA2CEA,
+				19C28FB0FE9D524F11CA2CBB,
+			);
+			isa = PBXGroup;
+			name = dadadodomax;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4ABFDCFA73011CA2CEA = {
+			children = (
+				2A37F4AEFDCFA73011CA2CEA,
+				2A37F4ACFDCFA73011CA2CEA,
+				B7DAF9AA0586D52300493729,
+				B7DAF9AB0586D52300493729,
+				B7DAF9B20586D54800493729,
+				B7DAF9B30586D54800493729,
+				B78FB9690585383E00380955,
+				B78FB96A0585383E00380955,
+				B7B9D44A05BDA2DF00EC5CF8,
+				B7B9D44B05BDA2DF00EC5CF8,
+			);
+			isa = PBXGroup;
+			name = Classes;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4ACFDCFA73011CA2CEA = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = DodoDocument.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4AEFDCFA73011CA2CEA = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = DodoDocument.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4AFFDCFA73011CA2CEA = {
+			children = (
+				B723DA4C05856716005A7856,
+				32DBCF750370BD2300C91783,
+				2A37F4B0FDCFA73011CA2CEA,
+			);
+			isa = PBXGroup;
+			name = "Other Sources";
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4B0FDCFA73011CA2CEA = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = main.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4B4FDCFA73011CA2CEA = {
+			children = (
+				2A37F4B5FDCFA73011CA2CEA,
+			);
+			isa = PBXVariantGroup;
+			name = DodoDocument.nib;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4B5FDCFA73011CA2CEA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = English;
+			path = English.lproj/DodoDocument.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4B6FDCFA73011CA2CEA = {
+			children = (
+				2A37F4B7FDCFA73011CA2CEA,
+			);
+			isa = PBXVariantGroup;
+			name = MainMenu.nib;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4B7FDCFA73011CA2CEA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			name = English;
+			path = English.lproj/MainMenu.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4B8FDCFA73011CA2CEA = {
+			children = (
+				B78159E605D1BA34005BBEF6,
+				B78159FA05D1DCEF005BBEF6,
+				B78FB93905850D5000380955,
+				2A37F4B9FDCFA73011CA2CEA,
+				2A37F4B6FDCFA73011CA2CEA,
+				2A37F4B4FDCFA73011CA2CEA,
+				B738E35705866ADF00E0CE06,
+				B738E35905866AF300E0CE06,
+				B7BE36900599E67E0080DD87,
+				B7B9D42605BD9B5800EC5CF8,
+				8D15AC360486D014006FF6A4,
+				089C165FFE840EACC02AAC07,
+			);
+			isa = PBXGroup;
+			name = Resources;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4B9FDCFA73011CA2CEA = {
+			children = (
+				2A37F4BAFDCFA73011CA2CEA,
+			);
+			isa = PBXVariantGroup;
+			name = Credits.rtf;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4BAFDCFA73011CA2CEA = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.rtf;
+			name = English;
+			path = English.lproj/Credits.rtf;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4C3FDCFA73011CA2CEA = {
+			children = (
+				B738E2B40586530B00E0CE06,
+				1058C7A6FEA54F5311CA2CBB,
+				1058C7A8FEA54F5311CA2CBB,
+			);
+			isa = PBXGroup;
+			name = Frameworks;
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		2A37F4C4FDCFA73011CA2CEA = {
+			fallbackIsa = PBXFileReference;
+			isa = PBXFrameworkReference;
+			lastKnownFileType = wrapper.framework;
+			name = AppKit.framework;
+			path = /System/Library/Frameworks/AppKit.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		2A37F4C5FDCFA73011CA2CEA = {
+			fallbackIsa = PBXFileReference;
+			isa = PBXFrameworkReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = /System/Library/Frameworks/Foundation.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+//2A0
+//2A1
+//2A2
+//2A3
+//2A4
+//320
+//321
+//322
+//323
+//324
+		32DBCF750370BD2300C91783 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = dadadodomax_Prefix.pch;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+//320
+//321
+//322
+//323
+//324
+//4A0
+//4A1
+//4A2
+//4A3
+//4A4
+		4A9504D0FFE6A4CB11CA0CBA = {
+			buildRules = (
+			);
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OPTIMIZATION_CFLAGS = "-O0";
+				ZERO_LINK = YES;
+			};
+			isa = PBXBuildStyle;
+			name = Development;
+		};
+		4A9504D1FFE6A4CB11CA0CBA = {
+			buildRules = (
+			);
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				ZERO_LINK = NO;
+			};
+			isa = PBXBuildStyle;
+			name = Deployment;
+		};
+//4A0
+//4A1
+//4A2
+//4A3
+//4A4
+//8D0
+//8D1
+//8D2
+//8D3
+//8D4
+		8D15AC270486D014006FF6A4 = {
+			buildPhases = (
+				8D15AC280486D014006FF6A4,
+				8D15AC2B0486D014006FF6A4,
+				8D15AC300486D014006FF6A4,
+				8D15AC330486D014006FF6A4,
+			);
+			buildRules = (
+			);
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_ENABLE_TRIGRAPHS = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = dadadodomax_Prefix.pch;
+				GCC_PREPROCESSOR_DEFINITIONS = GETTIMEOFDAY_TWO_ARGS;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = NO;
+				GCC_WARN_FOUR_CHARACTER_CONSTANTS = NO;
+				GCC_WARN_UNKNOWN_PRAGMAS = NO;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = "";
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = dadadodomax;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+				WRAPPER_EXTENSION = app;
+			};
+			dependencies = (
+				B723DAA4058568FA005A7856,
+			);
+			isa = PBXNativeTarget;
+			name = dadadodomax;
+			productInstallPath = "$(HOME)/Applications";
+			productName = dadadodomax;
+			productReference = 8D15AC370486D014006FF6A4;
+			productType = "com.apple.product-type.application";
+		};
+		8D15AC280486D014006FF6A4 = {
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC290486D014006FF6A4,
+				8D15AC2A0486D014006FF6A4,
+				B78FB96B0585383E00380955,
+				B7DAF9AC0586D52300493729,
+				B7DAF9B40586D54800493729,
+				B7B9D44C05BDA2DF00EC5CF8,
+			);
+			isa = PBXHeadersBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D15AC290486D014006FF6A4 = {
+			fileRef = 32DBCF750370BD2300C91783;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D15AC2A0486D014006FF6A4 = {
+			fileRef = 2A37F4AEFDCFA73011CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D15AC2B0486D014006FF6A4 = {
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC2C0486D014006FF6A4,
+				8D15AC2D0486D014006FF6A4,
+				8D15AC2E0486D014006FF6A4,
+				8D15AC2F0486D014006FF6A4,
+				B78FB93A05850D5000380955,
+				B738E35805866ADF00E0CE06,
+				B738E35A05866AF300E0CE06,
+				B7BE36910599E67E0080DD87,
+				B7B9D42705BD9B5800EC5CF8,
+				B78159E705D1BA34005BBEF6,
+				B78159FB05D1DCEF005BBEF6,
+			);
+			isa = PBXResourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D15AC2C0486D014006FF6A4 = {
+			fileRef = 2A37F4B9FDCFA73011CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D15AC2D0486D014006FF6A4 = {
+			fileRef = 2A37F4B6FDCFA73011CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D15AC2E0486D014006FF6A4 = {
+			fileRef = 2A37F4B4FDCFA73011CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D15AC2F0486D014006FF6A4 = {
+			fileRef = 089C165FFE840EACC02AAC07;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D15AC300486D014006FF6A4 = {
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC310486D014006FF6A4,
+				8D15AC320486D014006FF6A4,
+				B78FB96C0585383E00380955,
+				B7DAF9AD0586D52300493729,
+				B7DAF9B50586D54800493729,
+				B7B9D44D05BDA2DF00EC5CF8,
+			);
+			isa = PBXSourcesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D15AC310486D014006FF6A4 = {
+			fileRef = 2A37F4ACFDCFA73011CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+				);
+			};
+		};
+		8D15AC320486D014006FF6A4 = {
+			fileRef = 2A37F4B0FDCFA73011CA2CEA;
+			isa = PBXBuildFile;
+			settings = {
+				ATTRIBUTES = (
+				);
+			};
+		};
+		8D15AC330486D014006FF6A4 = {
+			buildActionMask = 2147483647;
+			files = (
+				8D15AC340486D014006FF6A4,
+				B738E2B50586530B00E0CE06,
+			);
+			isa = PBXFrameworksBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D15AC340486D014006FF6A4 = {
+			fileRef = 1058C7A7FEA54F5311CA2CBB;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		8D15AC360486D014006FF6A4 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist;
+			path = Info.plist;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		8D15AC370486D014006FF6A4 = {
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			isa = PBXFileReference;
+			path = dadadodomax.app;
+			refType = 3;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+//8D0
+//8D1
+//8D2
+//8D3
+//8D4
+//B70
+//B71
+//B72
+//B73
+//B74
+		B723DA4C05856716005A7856 = {
+			children = (
+				B723DA4D05856716005A7856,
+				B723DA4E05856716005A7856,
+				B723DA4F05856716005A7856,
+				B723DA5005856716005A7856,
+				B723DA5105856716005A7856,
+				B723DA5205856716005A7856,
+				B723DA5305856716005A7856,
+				B723DA5405856716005A7856,
+				B723DA5505856716005A7856,
+				B723DA5605856716005A7856,
+				B723DA5705856716005A7856,
+				B723DA5805856716005A7856,
+				B723DA5905856716005A7856,
+				B723DA5A05856716005A7856,
+				B723DA5B05856716005A7856,
+				B723DA5C05856716005A7856,
+				B723DA5D05856716005A7856,
+			);
+			isa = PBXGroup;
+			path = "dadadodo-1.04";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA4D05856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = dadadodo.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA4E05856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = dadadodo.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA4F05856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			path = dodotodo;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5005856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = files.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5105856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = files.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5205856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = generate.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5305856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = generate.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5405856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = hash.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5505856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = hash.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5605856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.make;
+			path = Makefile;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5705856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = parse.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5805856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = parse.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5905856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = parsei.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5A05856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			path = README;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5B05856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = version.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5C05856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.c;
+			path = yarandom.c;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DA5D05856716005A7856 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = yarandom.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B723DAA3058568FA005A7856 = {
+			containerPortal = 2A37F4A9FDCFA73011CA2CEA;
+			isa = PBXContainerItemProxy;
+			proxyType = 1;
+			remoteGlobalIDString = B78FB9950585484900380955;
+			remoteInfo = "dadadodo tool";
+		};
+		B723DAA4058568FA005A7856 = {
+			isa = PBXTargetDependency;
+			target = B78FB9950585484900380955;
+			targetProxy = B723DAA3058568FA005A7856;
+		};
+		B738E2B40586530B00E0CE06 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = WebKit.framework;
+			path = /System/Library/Frameworks/WebKit.framework;
+			refType = 0;
+			sourceTree = "<absolute>";
+		};
+		B738E2B50586530B00E0CE06 = {
+			fileRef = B738E2B40586530B00E0CE06;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B738E35705866ADF00E0CE06 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			path = TextDocument.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B738E35805866ADF00E0CE06 = {
+			fileRef = B738E35705866ADF00E0CE06;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B738E35905866AF300E0CE06 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.nib;
+			path = HTMLDocument.nib;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B738E35A05866AF300E0CE06 = {
+			fileRef = B738E35905866AF300E0CE06;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B78159E005D1B1B8005BBEF6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			name = English;
+			path = "English.lproj/dadadodomax Help";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B78159E605D1BA34005BBEF6 = {
+			children = (
+				B78159E005D1B1B8005BBEF6,
+			);
+			isa = PBXVariantGroup;
+			name = "dadadodomax Help";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B78159E705D1BA34005BBEF6 = {
+			fileRef = B78159E605D1BA34005BBEF6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B78159FA05D1DCEF005BBEF6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = dadadodomax_icon128.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B78159FB05D1DCEF005BBEF6 = {
+			fileRef = B78159FA05D1DCEF005BBEF6;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B78FB93905850D5000380955 = {
+			isa = PBXFileReference;
+			lastKnownFileType = "compiled.mach-o.executable";
+			name = dadadodo;
+			path = "dadadodo-1.04/dadadodo";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B78FB93A05850D5000380955 = {
+			fileRef = B78FB93905850D5000380955;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B78FB9690585383E00380955 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = DodoController.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B78FB96A0585383E00380955 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = DodoController.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B78FB96B0585383E00380955 = {
+			fileRef = B78FB9690585383E00380955;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B78FB96C0585383E00380955 = {
+			fileRef = B78FB96A0585383E00380955;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B78FB98F058547A200380955 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			path = Todo.txt;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B78FB9950585484900380955 = {
+			buildArgumentsString = "$(ACTION)";
+			buildPhases = (
+			);
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = dadadodo;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+			};
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "dadadodo-1.04";
+			dependencies = (
+			);
+			isa = PBXLegacyTarget;
+			name = "dadadodo tool";
+			passBuildSettingsInEnvironment = 1;
+			productName = "dadadodo tool";
+		};
+		B7B9D42605BD9B5800EC5CF8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.icns;
+			path = dadadodomax_doc.icns;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7B9D42705BD9B5800EC5CF8 = {
+			fileRef = B7B9D42605BD9B5800EC5CF8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B7B9D44A05BDA2DF00EC5CF8 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = DDTableView.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7B9D44B05BDA2DF00EC5CF8 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = DDTableView.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7B9D44C05BDA2DF00EC5CF8 = {
+			fileRef = B7B9D44A05BDA2DF00EC5CF8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B7B9D44D05BDA2DF00EC5CF8 = {
+			fileRef = B7B9D44B05BDA2DF00EC5CF8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B7BE36900599E67E0080DD87 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.icns;
+			path = dadadodomax_app.icns;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7BE36910599E67E0080DD87 = {
+			fileRef = B7BE36900599E67E0080DD87;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B7DAF9AA0586D52300493729 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = TextDocument.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7DAF9AB0586D52300493729 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = TextDocument.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7DAF9AC0586D52300493729 = {
+			fileRef = B7DAF9AA0586D52300493729;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B7DAF9AD0586D52300493729 = {
+			fileRef = B7DAF9AB0586D52300493729;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B7DAF9B20586D54800493729 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			path = HTMLDocument.h;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7DAF9B30586D54800493729 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.objc;
+			path = HTMLDocument.m;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		B7DAF9B40586D54800493729 = {
+			fileRef = B7DAF9B20586D54800493729;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		B7DAF9B50586D54800493729 = {
+			fileRef = B7DAF9B30586D54800493729;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+	};
+	rootObject = 2A37F4A9FDCFA73011CA2CEA;
+}
